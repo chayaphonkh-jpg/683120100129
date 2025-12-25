@@ -1,0 +1,14 @@
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\bin\Debug\net8.0\Circle_Rectangle_Cylinder.exe
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\bin\Debug\net8.0\Circle_Rectangle_Cylinder.deps.json
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\bin\Debug\net8.0\Circle_Rectangle_Cylinder.runtimeconfig.json
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\bin\Debug\net8.0\Circle_Rectangle_Cylinder.dll
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\bin\Debug\net8.0\Circle_Rectangle_Cylinder.pdb
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.AssemblyInfoInputs.cache
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.AssemblyInfo.cs
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.csproj.CoreCompileInputs.cache
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.dll
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\refint\Circle_Rectangle_Cylinder.dll
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.pdb
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\Circle_Rectangle_Cylinder.genruntimeconfig.cache
+C:\HW_683120100129\Circle_Rectangle_Cylinder\Circle_Rectangle_Cylinder\obj\Debug\net8.0\ref\Circle_Rectangle_Cylinder.dll
